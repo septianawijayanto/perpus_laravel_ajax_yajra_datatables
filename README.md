@@ -31,7 +31,7 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/septianawijayanto/perpus_laravel_ajax.git
+git clone https://github.com/septianawijayanto/perpus_laravel_ajax_yajra_datatables.git
 cd perpus_laravel_ajax
 composer install
 cp .env.example .env
