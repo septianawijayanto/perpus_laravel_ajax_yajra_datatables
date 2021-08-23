@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/septianawijayanto/perpus_laravel_ajax_yajra_datatables.git
-cd perpus_laravel_ajax
+cd perpus_laravel_ajax_yajra_datatables
 composer install
 cp .env.example .env
 ```
